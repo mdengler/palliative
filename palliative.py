@@ -17,6 +17,8 @@ Copyright (C) 2015 Martin T Dengler <martin@martindengler.com> ; LICENSE: GPL-3.
 import datetime as dtm
 import random as rnd
 
+__version__ = "1.0.0"
+
 DEFAULT = "DEFAULT"
 
 
